@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    scroll-behavior: smooth;
+    background-color: rgb(218, 218, 218);
+}
+
+header {
+    background: url(/img/background-header.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
