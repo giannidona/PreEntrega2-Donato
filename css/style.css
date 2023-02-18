@@ -20,6 +20,14 @@ header {
     background-color: #000 !important;
 }
 
+.f__family {
+    font-family: 'Source Sans Pro', sans-serif;;
+}
+
+.m__bottom {
+    margin-bottom: 0 !important;
+}
+
 /* MAIN */
 
 #main {
