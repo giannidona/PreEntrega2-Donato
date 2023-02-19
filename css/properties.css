@@ -5,14 +5,34 @@
 }
 
 body {
-    font-family: 'Playfair Display', serif;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: "Playfair Display", serif;
+    font-family: "Source Sans Pro", sans-serif;
     scroll-behavior: smooth;
     background-color: rgb(218, 218, 218);
 }
 
-header {
-    height: 100vh;
+.bg__color {
+    background-color: #000 !important;
+}
+
+.links {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+#main {
+    background-image: url(/img/background-header.jpg);
+    height: 95vh;
     background-size: cover;
 }
+
+.title {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+    user-select: none;
+}
+
 
